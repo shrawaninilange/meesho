@@ -1,0 +1,50 @@
+.foot{
+                      width: 100%;
+                      background-color: rgb(249,249,249);
+                      display: flex;
+                      margin-top: 20px;
+}
+
+.foimg{
+  width: 200px;
+  margin-left: 4px;
+  border: 0ch;
+  border-radius: 10px;
+}
+
+.fot1poi{
+                      margin-left: 90px;
+                      margin-top: 20px;
+
+}
+
+.pfot{
+                      width: 280px;
+
+}
+
+.fot{
+                      margin-left: 25px;
+                      margin-top: 20px;
+}
+
+.foot3{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.foot4{
+                      margin-left: 25px;
+                      margin-top: 20px;
+}
+
+.footcon{
+                      margin-left: 25px;
+                      margin-top: 20px;
+}
+.iv{
+                      margin-left: 10px;
+                      margin-top: 20px;
+}
+
+

@@ -1,0 +1,38 @@
+.about{
+                      width: 90%;
+                      background-color: rgb(255,255,255);
+                      height: 3000px;
+                      margin-top: 20px;
+                      margin-left: 70px;
+                  border-radius: 10px;
+                  border: 1px solid gainsboro;
+}
+
+.aboutof{
+    margin-left: 30px;  
+    margin-right: 30px;                   
+
+}
+.ab{
+     padding-top: 20px;
+}
+
+.abp{
+    font-size: 25px;
+    color: black; 
+}
+
+.aab{
+    color: grey;
+}
+ .h4ab{
+ color: rgb(238, 15, 89);
+ }
+
+ .h5ab{
+    color: black; 
+}
+
+.h6ab{
+ color: rgb(240, 18, 92);    
+}

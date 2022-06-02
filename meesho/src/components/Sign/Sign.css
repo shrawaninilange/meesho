@@ -1,0 +1,51 @@
+  *{
+    background-color:rgb(253,237,236);
+  }
+
+  .sindiv{
+    width: 25%;
+    background-color: white;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+  }
+
+  img{
+    width: 370px;
+  }
+
+  .hh4{
+    background-color: white;
+    margin-left: 30px;
+ 
+  }
+
+  .lp{
+    display: flex;
+    background-color:white;
+  }
+
+  .im{
+    background-color:white;
+    border: hidden;
+    margin-bottom: 10px;
+    text-decoration: underline;
+  }
+  .pp{
+    background-color:white;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: underline;
+  }
+
+  .sinbtn{
+    
+    background-color:rgb(244,51,151);
+    border: 0ch;
+    padding: 15px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+  }

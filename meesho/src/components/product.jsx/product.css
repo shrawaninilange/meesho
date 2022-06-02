@@ -1,0 +1,120 @@
+.App_pro{
+                      width: 70%;
+                    
+                      margin: auto;
+                      margin-right: 370px;
+                      
+                      
+                    }
+                    .productbox{
+                      overflow: hidden;
+                      text-overflow: ellipsis;
+                      display: -webkit-box;
+                      -webkit-line-clamp: 1; /* number of lines to show */
+                      line-clamp: 1;
+                      -webkit-box-orient: vertical;
+                     
+                    }
+                    .pro_div{
+                      
+                       
+                      height: 620px;
+                      
+                      width: 320px;
+                      margin-bottom: 20px;
+                      margin-top: 30px;
+                      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+                    border: 0.5px solid gainsboro;
+                    margin: 5px;
+                     
+                    
+                     
+                    }
+                    .pro_con{
+                       display: grid;
+                       grid-template-columns: repeat(4,1fr);
+                       
+                    }
+                    
+                    .iv{
+                      margin-left: 16px;
+                    }
+                    .org_pri{
+                      margin: 19px;
+                    }
+                      
+                    .pro_img{
+                      width: 320px;
+                      height: 300px;
+                      margin-left: 0px; 
+                      border-radius: 10px;
+                    }
+                    .dis10{
+                      color: rgb(119, 156, 62);
+                      margin-top:25px ;
+                      margin-left: 10px;
+                    }
+                    .rating_pro{
+                      display: flex;
+                      margin-top: -10px;
+                    }
+                    .pro_price{
+                      display: flex;
+                    }
+                    .org{
+                     text-decoration: line-through;
+                     margin-top: 30px;
+                    }
+                    .single_pro{
+                      height: 500px;
+                      
+                      
+                    }
+                    .price{
+                     margin-left: 7px;
+                     margin-top: px;
+                    }
+                    .rate{
+                    width: 55px;
+                      border-radius: 15px;
+                      background-color: rgb(31, 209, 31);
+                      text-align: center;
+                      margin-top: 40px;
+                      margin-left: 15px;
+                    
+                    }
+                     
+                     .pro_pri{
+                       display: flex;
+                     }
+                     .discount{
+                       text-decoration: line-through;
+                       margin-left: 7px;
+                       margin-top: 24px;
+                       color: gray;
+                     }
+                     .reviews{
+                       margin-top: 50px;
+                       margin-left: 15px;
+                     }
+                    
+                     .freee{
+                    
+                       background-color: rgb(233,232,222);
+                        width: 93px;
+                        margin-top: 18px;
+                        margin-left: 10px;
+                    
+                        border-radius: 8px;
+                     }
+                    
+                     .fa-percent {
+                       padding: 4px;
+                       border-radius: 10px;
+                       margin-left: 15px;
+                       background-color:rgb(117,186,117);
+                     }
+                    
+                     .fa-solid fa-indian-rupee-sign{
+                       width: 5pX;
+                     }

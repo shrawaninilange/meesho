@@ -1,0 +1,142 @@
+.homediv{
+                      width: 70%;
+                      height: 380px;
+                      background-color: rgb(249,249,249);
+                     margin: auto;
+}
+.homediv{
+                      display: flex;
+}
+
+.homeh1{
+                      margin-left: 30px;
+                      margin-bottom: 40px;
+}
+
+.btnhome{
+                      margin-left: 30px;
+                      background-color: rgb(244,51,151);
+                      color: aliceblue;
+                      border: 0px;
+                      padding: 10px;
+                      padding-left: 10px;
+                      padding-right: 20px;
+                      font-size: 20px;
+}
+
+.homeplay{
+              margin-right: 20px;       
+}
+
+.hometext{
+                      margin-left: 450px;
+                      font-size: 21px;
+}
+
+.homedivimg{
+
+                      width: 70%;
+                      height: 600px;
+                      background-color: rgb(250,226,211);
+                     margin: auto;
+
+
+}
+
+.imghome{
+                      margin-top: 40px;
+                      margin-left: 20px;
+                      width: 350px;
+}
+
+.imghome1{
+                      margin-top: 10px;
+                      margin-left: 20px;
+                      width: 300px;
+}
+ 
+
+.imghome2{
+                      margin-top: 10px;
+                      margin-left: 20px;
+                      width: 300px;
+}
+ .fas{
+         margin-left: 500px;   
+         margin-top: 40px;   
+                 font-size: 30px;
+ }
+
+ .imgho{
+                      width: 70%;
+                      height: 500px;
+                      background-color: rgb(250,226,211);
+                     margin: auto;
+                     margin-top: 30px;
+
+                     display: flex;
+
+
+ }
+
+ .img22{
+                       margin-right: 69px;
+ }
+
+ .essen{
+                       font-size: 60px;
+                       font-weight: 500;
+                       color: teal;
+                     
+                      margin-left: 60px;
+                      
+                        
+ }
+
+ .lef{
+    display: flex;                 
+ }
+
+ .igg{
+                       margin-left: 20px;
+                       margin-top: 80px;
+                      
+ }
+ 
+ .ntn1{
+                       border: 0ch;
+                       padding: 20px;
+                       color: aliceblue;
+                       background-color: black;
+                       margin-left: 130px;
+                       border-radius: 5px;
+ }
+
+ .btnimg{
+                       margin-left: 90px;
+                       padding: 10px;
+                       background-color :white;
+                       color: teal;
+                       border: 0ch;
+                       margin-top: 20px;
+                       border-radius: 4px;
+ }
+
+
+ #img11{
+             
+                      width: 1030px;
+                      height: 500px;
+                      margin-left: 220px;
+                      margin-top: 20px;
+                      
+                      
+
+
+                    
+ 
+ }
+
+ .h1inhome{
+         margin-left: 70px;
+ }
